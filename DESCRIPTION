@@ -36,5 +36,6 @@ Suggests:
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 URL: https://www.torvik.dev/,
-     https://github.com/andreweatherman/toRvik
+    https://github.com/andreweatherman/toRvik,
+    http://torvik.sportsdataverse.org/
 Language: en-US

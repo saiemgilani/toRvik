@@ -1,4 +1,4 @@
-url: https://andreweatherman.github.io/toRvik/
+url: http://torvik.sportsdataverse.org/
 development:
   mode: auto
 template:
@@ -14,9 +14,17 @@ template:
     border-radius: 0
     btn-border-radius: 3px
     grid-gutter-width: 3rem
+  opengraph:
+    image:
+      src: "https://raw.githubusercontent.com/andreweatherman/toRvik/main/man/figures/logo.png"
+    twitter:
+      creator: "@andreweatherman"
+      site: "@sportsdataverse"
+      card: summary
+
 authors:
   Andrew Weatherman:
-    href: https://www.linkedin.com/in/andrewweatherman/
+    href: https://twitter.com/andreweatherman
 home:
   title: toRvik
   description: An R package for pulling Barttorvik (T-Rank) data
